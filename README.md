@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7ea3a0d (initial vite project)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -53,6 +56,7 @@ export default tseslint.config({
   },
 })
 ```
+<<<<<<< HEAD
 =======
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JNHhdQGs)
 # Assignment 2B - React Web Pages
@@ -86,3 +90,5 @@ Use the App.css stylesheet for all components, except create a list.css and with
 
 
 >>>>>>> 4670d5c86e3544b63fa4c974a422b382a827cd40
+=======
+>>>>>>> 7ea3a0d (initial vite project)
