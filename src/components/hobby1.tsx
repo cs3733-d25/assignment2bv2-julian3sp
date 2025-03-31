@@ -1,4 +1,4 @@
-import
+import '../styles/hobby1styles.css'
 
 
 export function JuliansHobby(){
