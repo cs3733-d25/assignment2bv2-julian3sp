@@ -1,33 +1,8 @@
-
-body{
-    padding: 30px;
-    color: white;
-    background-color: #303030;
-    font-family: Arial, Helvetica, sans-serif;}
-
-nav {
-    color: white;
-    text-align: center;
-    background-color: red;
-}
-
-/*.hobby2{*/
-/*    display: flex;*/
-/*}*/
-
-nav ul, nav li {
-    color: white;
-    display: inline-block;
-    list-style-type: none;
-}
-
-nav ul li a:hover {
-    color: #FFFFFF;
-    background-color: blue;
-}
-
 #title {
     text-align: center;
+}
+
+.hobby2{
 }
 
 #split\ form{
@@ -38,6 +13,9 @@ nav ul li a:hover {
 }
 
 .collapse{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
     border-collapse: collapse;
     th {
         border: 1px solid white;

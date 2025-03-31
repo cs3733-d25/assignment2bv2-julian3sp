@@ -2,7 +2,7 @@
 
 export function Table2 (){
     return(
-        <div className="table2">
+        <div>
             <h2>Here is my preferred split:</h2>
             <table className="collapse">
                 <caption>Push Pull Legs Split</caption>

@@ -10,9 +10,11 @@ function App() {
         <Title/>
       <div>
           <Intro name1={'Julian Espinal'} name2={'Brendon Peters'}/>
-
       </div>
-        <Hobby2/>
+        <div className="BHobby">
+            <Hobby2/>
+        </div>
+
     </>
   )
 }
