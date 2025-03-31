@@ -60,6 +60,7 @@
     .collapse, .collapse tr, .collapse th, .collapse td {
         border: 3px solid black;
         padding: 10px;
+        color: black;
 
     }
 
