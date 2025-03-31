@@ -1,0 +1,166 @@
+body {
+    font-family: monospace, sans-serif;
+    background-color: black;
+    background-image: url("/public/spaceimg.jpg");
+    font-size: 12.5pt;
+    font-weight: bold;
+}
+
+h2, h3, h4{
+    text-align: center;
+    color: #7393B3;
+    font-family: Lucida Console, sans-serif;
+
+}
+h1{
+    text-align: center;
+    color: #7393B3;
+    font-family: Lucida Console, sans-serif;
+}
+
+div {
+    background-color: white;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    font-size: 14pt;
+    background-color: white;
+
+}
+
+nav ul, nav li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li:hover {
+    background-image: url("/Public/spaceimg.jpg");
+    color: black;
+}
+
+nav a {
+    color: black;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: white;
+}
+
+#listener {
+    text-align: center;
+    background-color: white;
+}
+
+.collapse {
+    border-collapse: collapse;
+    padding: 100px;
+}
+
+.collapse, .collapse tr, .collapse th, .collapse td {
+    border: 3px solid black;
+    padding: 10px;
+
+}
+
+.collapse tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+#form-table {
+    border: 3px solid black;
+    padding: 10px;
+    width: 550px;
+}
+
+#form-table td {
+    padding: 5px;
+    font-size: 12pt;
+}
+
+button {
+    padding: 5px;
+    margin: 10px;
+    background-color: white;
+    border: black solid 2px;
+}
+
+button:hover {
+    background-image: url("/Public/spaceimg.jpg");
+    color: white;
+}
+
+input {
+    font-size: 15pt;
+    border: 3px solid black;
+}
+
+input[type='radio'] {
+    box-sizing: border-box;
+    appearance: none;
+    background: white;
+    outline: 2px solid #333;
+    border: 3px solid white;
+    width: 10px;
+    height: 10px;
+}
+
+input[type='radio']:checked {
+    background: #333;
+}
+
+input, button, textarea, select {
+    font-family: monospace;
+    font-size: 12pt;
+    border: 3px solid black;
+}
+
+
+.text {
+    width: 300px;
+}
+
+.checkbox {
+    width: 15px;
+    height: 15px;
+    border: 3px solid black;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+#intro {
+    text-align: center;
+    width: 1900px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+#intro-section {
+    display: flex;
+    align-content: center;
+}
+
+#song-list {
+    font-size: 12pt;
+    border: 3px solid black;
+}
+
+#song-list li {
+    padding: 20px 10px 20px 40px;
+    list-style: none;
+    background-image: url("/Public/disc2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 25px;
+}
