@@ -4,6 +4,7 @@ import {Intro} from './components/intro.tsx'
 import {Hobby2} from "./components/hobby2.tsx";
 import {JuliansHobby} from "./components/hobby1.tsx";
 
+
 function App() {
 
   return (
