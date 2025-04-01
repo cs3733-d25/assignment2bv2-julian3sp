@@ -2,8 +2,8 @@
 .hobby1{
     display: flex;
     justify-content: space-evenly;
-    padding: 10px;
-    width: 1500px;
+    padding: 0;
+    width: 100%;
     h2, h3, h4{
         text-align: center;
         color: #7393B3;

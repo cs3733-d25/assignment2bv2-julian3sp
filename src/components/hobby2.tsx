@@ -11,9 +11,15 @@ export function Hobby2() {
                 <h1>Weight Lifting</h1>
                 <img src="/src/assets/images/weightlifting.jpeg" width="500" alt="WeightLifting Photo "/>
             </div>
-            <List2/>
-            <Table2/>
-            <Form2/>
+            <div>
+                <List2/>
+            </div>
+            <div>
+                <Table2/>
+            </div>
+            <div>
+                <Form2/>
+            </div>
             <br/> <br/>
         </div>
     );

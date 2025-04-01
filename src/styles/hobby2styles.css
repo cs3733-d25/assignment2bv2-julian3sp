@@ -7,8 +7,17 @@
     .hobby2{
     }
 
+    .list2{
+        width: 20%;
+        left: 50%;
+        transform: translate(200%, 0%);
+    }
+
     #split\ form{
+        left: 50%;
+        transform: translate(50%, 0%);
         padding: 10px;
+        width: 50%;
         border: 5px solid red;
         color: white;
         background-color: #6c6c6c;
